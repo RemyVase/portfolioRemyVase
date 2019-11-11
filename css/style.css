@@ -72,7 +72,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #1abc9c;
+	color: #C89524;
+	
 }
 
 .navbar-default {
@@ -81,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1abc9c;
+	color: #C89524;
 	background-color: transparent;
 }
 
@@ -90,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #1abc9c;
+	color: #C89524;
 }
 
 .navbar-default .navbar-toggle {
@@ -163,7 +164,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #1abc9c
+	color: #C89524
 }
 
 #footerwrap {
@@ -299,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button  {
-  background: #1abc9c;
+  background: #C89524;
   border: 0;
   padding: 14px 40px;
   color: #fff;
@@ -386,6 +387,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px 0;
 }
 
+/* Images portfolio */
+
+.adjustImg{
+	max-height : 200px;
+	max-width : 350px;
 /* Copyrights */
 
 #copyrights {
@@ -400,7 +406,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #copyrights a {
-  color: #1abc9c;
+  color: #C89524;
 }
 
 .credits {
