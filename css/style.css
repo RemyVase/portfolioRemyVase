@@ -17,8 +17,8 @@
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #293133;
+    color: #C89524;
     text-shadow: none;
 }
 
@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gallery img:hover {
-	opacity: 0.1;
+	opacity: 0.4;
 }
 
 
@@ -391,13 +391,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .adjustImg{
 	height : 250px;
-	width : 350px;
+	width : 375px;
 }
 
 .cadre1{
    border: 3px outset #2F4F4F;
 }
-
+/*
 .image {
   opacity: 1;
   display: block;
@@ -425,16 +425,12 @@ h1, h2, h3, h4, h5, h6 {
 .image:hover .middle {
   opacity: 1;
 }
-
+*/
 .text {
   color: #C89524;
-  font-size: 32px;
+  font-size: 20px;
   font-weight:bold;
   text-shadow: 1px 1px 1px #000;
-}
-
-.text:hover .image{
-  opacity: 0.3;
 }
 
 
