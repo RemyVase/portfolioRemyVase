@@ -430,6 +430,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #C89524;
   font-size: 32px;
   font-weight:bold;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.text:hover .image{
+  opacity: 0.3;
 }
 
 
