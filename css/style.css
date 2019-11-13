@@ -389,6 +389,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Images portfolio */
 
+.preuveImg{
+  height : 500px;
+  width: 875px;
+}
+
 .adjustImg{
 	height : 250px;
 	width : 375px;
