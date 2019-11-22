@@ -459,3 +459,20 @@ h1, h2, h3, h4, h5, h6 {
 .credits {
   color: #999;
 }
+
+
+/* Tabs style */
+
+.thead-dark{
+  background-color: #555C5F;
+  text-align: justify;
+  color: white; 
+}
+
+.thead-light{
+  background-color: #9FA0A4;
+}
+
+.taille-tr{
+  width: 30%;
+}
